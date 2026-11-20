@@ -1,9 +1,9 @@
-# $\color{#FFCCAA}\textsf{TEMPORARY GITHUB BEFORE I DECIDE WHAT ITS FOR!}$
+# $\color{#FFCCAA}\textsf{"Let's do our very, very, veeeery best!"}$
 
-<img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/7abca7dd-b9be-47d4-934b-590a40241743" />
+<img width="1200" height="401" alt="image" src="https://github.com/user-attachments/assets/1addb9ef-0e3b-4185-96fd-13bf7cab589b" />
 
-$\color{#FFCCAA}\textsf{Likely known as Eris!}$
+$\color{#FFCCAA}\textsf{Likely known as Eris, but I also go by Minori!}$
 
-$\color{#FFCCAA}\textsf{I'm a Sanrio / Fragaria Memories fan!!}$
+$\color{#FFCCAA}\textsf{For right now, this is a separate github for my Minori feeling! This may change later!!!}$
 
-$\color{#FFCCAA}\textsf{DNI proshippers and pro-endos/endo systems, also dni if you're anti-recovery}$
+$\color{#FFCCAA}\textsf{I tend to be more talkative or outgoing with this github!!}$
