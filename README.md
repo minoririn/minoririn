@@ -8,7 +8,7 @@ $\color{#FFCCAA}\textsf{I'm a sharing Malleus yume of over 2+ years !! He's very
 $\color{#FFCCAA}\textsf{Doubles feel free to int !! I don't mind and openly enjoy talking about him with others}$
 
 <details>
-<summary> OTHER F/OS </summary>
+<summary> $\color{#FFCCAA}\textsf{OTHER F/OS}$ </summary>
 
 TWST -
   Leona Kingscholar
