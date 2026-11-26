@@ -37,3 +37,8 @@ UMAMUSUME -
 18TRIP -
 Kuguri Domeki, Ten Murakumo, Lu Liguang, Raito Kitakata
 </details>
+
+<img width="970" height="230" alt="image" src="https://github.com/user-attachments/assets/dce0d5f4-8f89-427c-a114-776b774fceca" /> <img width="151" height="20" alt="image" src="https://github.com/user-attachments/assets/fabc20fb-5c42-41a5-9c08-1e2fbffa3efc" /> <img width="350" height="19" alt="image" src="https://github.com/user-attachments/assets/90583eb0-f0e9-4fc0-a8a0-50937466eb88" />
+
+
+
