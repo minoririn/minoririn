@@ -9,20 +9,31 @@ $\color{#FFCCAA}\textsf{Doubles feel free to int !! I don't mind and openly enjo
 
 <details>
 <summary> OTHER F/OS </summary>
-TWST
+
+TWST -
   Leona Kingscholar
-GENSHIN
+
+GENSHIN -
   Mavuika, Flins, Noy
-HSR
+
+HSR -
   Jiaoqiu, Dan Heng, Anaxa, Gallagher, Jing Yuan
-FRAGARIA MEMORIES
+
+FRAGARIA MEMORIES -
   Arupek, Hangyon, Willmesh, Tuxam, Pikero, Kurode, Merold
-ENSTARS
+
+ENSTARS -
   Mayoi, Shuu, Rei, Mika, Mashu, Kaoru, Arashi, Ibara, Nozomi, Chitose, Juis
-STRANGE EDEN
+
+STRANGE EDEN -
   Senri, Kosei, Rin, Shuichiro
-ZENLESS ZONE ZERO
+
+ZENLESS ZONE ZERO -
   Jane Doe, Seth, Harumasa, Hugo
-UMAMUSUME
+
+UMAMUSUME -
   Still In Love, Super Creek, Seeking The Pearl, Orfevre, Sirius Symboli, Symboli Rudolf
+
+18TRIP -
+Kuguri Domeki, Ten Murakumo, Lu Liguang, Raito Kitakata
 </details>
